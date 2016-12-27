@@ -11,6 +11,8 @@
 @import url('http://fonts.googleapis.com/css?family=Raleway:400,700,900');
 @import url('http://fonts.googleapis.com/css?family=Lato:400,900');
 @import url('https://fonts.googleapis.com/css?family=Arvo');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css'); 
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
@@ -27,12 +29,13 @@ body {
 	margin: 0; 
 	height: 100%; 
 	color: black;
-	font-family: 'Arvo', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-weight: 400;
+    padding-top: 40px; 
 	}
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Lato','Droid Arabic Naskh', sans-serif;
 	font-weight: 400;
 }
 
@@ -509,3 +512,39 @@ a.anchor{
     top: -80px; 
     visibility: hidden;
 }
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+.featurette {
+  padding-top: 120px; /* Vertically center images part 1: add padding above and below text. */
+  overflow: hidden; /* Vertically center images part 2: clear their floats. */
+}
+.featurette-image {
+  margin-top: -120px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
+}
+
+/* Give some space on the sides of the floated elements so text doesn't run right into it. */
+.featurette-image.pull-left {
+  margin-right: 40px;
+}
+.featurette-image.pull-right {
+  margin-left: 40px;
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.jumbotron {
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  border: 1px dashed deeppink;
+}
+
