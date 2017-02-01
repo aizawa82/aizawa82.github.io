@@ -3,10 +3,10 @@
   <channel>
     <title>MND Malaysia</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Feb 2017 14:09:41 +0800</pubDate>
-    <lastBuildDate>Wed, 01 Feb 2017 14:09:41 +0800</lastBuildDate>
+    <link>https://aizawa82.github.io/</link>
+    <atom:link href="https://aizawa82.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 01 Feb 2017 14:20:32 +0800</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2017 14:20:32 +0800</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
 
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/question/mndtreatment</link>
-        <guid isPermaLink="true">http://localhost:4000/question/mndtreatment</guid>
+        <link>https://aizawa82.github.io/question/mndtreatment</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/question/mndtreatment</guid>
         
         
         <category>question</category>
@@ -28,8 +28,8 @@
         <description>&lt;p&gt;At the moment there is no treatment available to cure MND. Research into this is continuously going on around the world and our understanding of MND is improving. The only medication which has been shown to slow down the progress of MND is called riluzole and is available in tablet form.&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/question/isthereacure</link>
-        <guid isPermaLink="true">http://localhost:4000/question/isthereacure</guid>
+        <link>https://aizawa82.github.io/question/isthereacure</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/question/isthereacure</guid>
         
         
         <category>question</category>
@@ -43,8 +43,8 @@
 &lt;p&gt;We look forward to meeting our patients, families on 12 February for a fun-filled run and hope that this acitivity will benefit our cause and add to the public awareness which is urgently needed to reach out to all those patients with MND who have not yet made contact with us.&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/mndrun/</link>
-        <guid isPermaLink="true">http://localhost:4000/mndrun/</guid>
+        <link>https://aizawa82.github.io/mndrun/</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/mndrun/</guid>
         
         
         <category>blog</category>
@@ -62,8 +62,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://localhost:4000/project/your-project-name</link>
-        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
+        <link>https://aizawa82.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -79,8 +79,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://localhost:4000/project/your-project-name</link>
-        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
+        <link>https://aizawa82.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -96,8 +96,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://localhost:4000/project/your-project-name</link>
-        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
+        <link>https://aizawa82.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -113,8 +113,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://localhost:4000/project/your-project-name</link>
-        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
+        <link>https://aizawa82.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -130,8 +130,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://localhost:4000/project/your-project-name</link>
-        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
+        <link>https://aizawa82.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -147,8 +147,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://localhost:4000/project/your-project-name</link>
-        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
+        <link>https://aizawa82.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -164,8 +164,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>http://localhost:4000/project/your-project-name</link>
-        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
+        <link>https://aizawa82.github.io/project/your-project-name</link>
+        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
         
         
         <category>project</category>
