@@ -3,19 +3,20 @@
   <channel>
     <title>MND Malaysia</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://aizawa82.github.io/</link>
-    <atom:link href="https://aizawa82.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Dec 2016 12:21:38 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2016 12:21:38 +0800</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 01 Feb 2017 14:09:41 +0800</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2017 14:09:41 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
     
       <item>
-        <title>Question: Why did the Chicken cross the road?</title>
-        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
+        <title>Question: How is motor neurone disease treated?</title>
+        <description>&lt;p&gt;The treatment of motor neurone disease consists of supporting patients according to their individual needs. Although there is no cure available a lot of supportive treatment options have been proven to be helpful and improve the quality of life of MND patients.&lt;/p&gt;
+
 </description>
-        <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/question/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/question/your-project-name</guid>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/question/mndtreatment</link>
+        <guid isPermaLink="true">http://localhost:4000/question/mndtreatment</guid>
         
         
         <category>question</category>
@@ -23,6 +24,36 @@
       </item>
     
       <item>
+        <title>Question: Is there a cure for MND?</title>
+        <description>&lt;p&gt;At the moment there is no treatment available to cure MND. Research into this is continuously going on around the world and our understanding of MND is improving. The only medication which has been shown to slow down the progress of MND is called riluzole and is available in tablet form.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/question/isthereacure</link>
+        <guid isPermaLink="true">http://localhost:4000/question/isthereacure</guid>
+        
+        
+        <category>question</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: MND Run</title>
+        <description>&lt;p&gt;As the first major event of this year we are planning to host a 5 km fundraising run in support of our patients. We would like to thank everyone who has registered for the run and regret that we had to close registrations for the run already.&lt;/p&gt;
+
+&lt;p&gt;We look forward to meeting our patients, families on 12 February for a fun-filled run and hope that this acitivity will benefit our cause and add to the public awareness which is urgently needed to reach out to all those patients with MND who have not yet made contact with us.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mndrun/</link>
+        <guid isPermaLink="true">http://localhost:4000/mndrun/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>fundraising</category>
+        
+      </item>
+    
+      <item>
         <title>Project: YOUR PROJECT NAME</title>
         <description>&lt;p&gt;####YOUR PROJECT NAME
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
@@ -31,8 +62,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
+        <link>http://localhost:4000/project/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -48,8 +79,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
+        <link>http://localhost:4000/project/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -65,8 +96,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
+        <link>http://localhost:4000/project/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -82,8 +113,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
+        <link>http://localhost:4000/project/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -99,8 +130,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
+        <link>http://localhost:4000/project/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -116,8 +147,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
+        <link>http://localhost:4000/project/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -133,42 +164,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;p&gt;####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;p&gt;####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;p&gt;####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;p&gt;####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Apr 2014 00:54:46 +0800</pubDate>
-        <link>https://aizawa82.github.io/project/your-project-name</link>
-        <guid isPermaLink="true">https://aizawa82.github.io/project/your-project-name</guid>
+        <link>http://localhost:4000/project/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/project/your-project-name</guid>
         
         
         <category>project</category>

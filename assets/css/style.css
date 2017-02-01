@@ -44,7 +44,7 @@ p {
 	margin-bottom: 12px; 
 	font-family: 'Raleway', sans-serif;
 	font-weight: 400;
-	font-size: 14px; 
+	font-size: 18px; 
 	line-height: 24px;
 	color: black; 
 	margin-top: 10px; 
@@ -546,5 +546,24 @@ a.anchor{
   left:50%;
   transform: translate(-50%,-50%);
   border: 1px dashed deeppink;
+}
+
+.panel {
+	border-width:0;
+	background: #8bd3e6;
+	border-radius: 10px;
+	height: 300px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.contact-footer a:link {
+    color: #fff;
+    text-decoration: none;
+
+
 }
 
