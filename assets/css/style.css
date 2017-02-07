@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Arvo);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 @import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css); 
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
@@ -32,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 p { 
 	padding: 0; 
 	margin-bottom: 12px; 
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway','Yanone Kaffeesatz', sans-serif;
 	font-weight: 400;
 	font-size: 18px; 
 	line-height: 24px;
@@ -458,6 +459,48 @@ csmall {
     background-size: cover;
 }
 
+.logowrap {
+	background: url(../img/klcclowsize2.jpg) no-repeat center top;
+	margin-top: -60px;
+	padding-top:0px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-opacity: 0.1;
+}
+
+.linkswrap {
+	background: url(../img/logocanvas.png) no-repeat center top;
+	margin-top: -60px;
+	padding-top:0px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 /* Blog Page */
 .popular-posts { 
 	margin: 0px;
@@ -553,7 +596,17 @@ a.anchor{
 .contact-footer a:link {
     color: #fff;
     text-decoration: none;
+}
 
+hr.style-four { 
+height: 8px; 
+border: 0; 
+box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
 
+.rcorners1 {
+    margin-top: 20px;
+    border-radius: 25px;
+    background: #9bc7ee;
 }
 
